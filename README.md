@@ -6,6 +6,7 @@ The original game can be found at http://orteil.dashnet.org/cookieclicker/
 
 This is hosted on Netlify so that people who want to play Cookie Clicker, but cannot due to website blocking, can play freely.
 
+Thanks to @ozh for original mirror
 ### How to update
 
 If the original game updates, here is how you can update this version:
