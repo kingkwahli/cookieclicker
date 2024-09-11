@@ -1,14 +1,14 @@
-# cookieclicker
+# Cookie Clicker (netlify.app)
 
 <img src="img/perfectCookie.png" width="128">
 
 The original game can be found at http://orteil.dashnet.org/cookieclicker/
 
-This mirror for, errrr, like, educational purpose, either to download for your own offline education or to be played online from http://ozh.github.io/cookieclicker/ if you cannot "educate" yourself on the original URL
+This is hosted on Netlify so that people who want to play Cookie Clicker, but cannot due to website blocking, can play freely.
 
 ### How to update
 
-If the original game updates, here is how you can update the mirror:
+If the original game updates, here is how you can update this version:
 
 #### 1. Fetch all new images :
 
